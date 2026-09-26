@@ -1,10 +1,10 @@
-🛍️ Blinkit Sales & Inventory Performance Analysis (Power BI)
+####🛍️ Blinkit Sales & Inventory Performance Analysis (Power BI)
 
 An interactive Power BI Data Analytics Solution analyzing 8,523 grocery inventory and sales records for Blinkit. This project uncovers product category performance, customer rating distributions, item fat content demands, outlet size & tier efficiencies, and establishment year sales trends built entirely in Power BI Desktop.
 
 ---
 
-### 🔹 Page 1: Overall Sales & Performance Dashboard
+### 🔹Overall Sales & Performance Dashboard
 
 Focuses on macro-level retail KPIs, category breakdown, outlet metrics, and temporal sales performance.
 
